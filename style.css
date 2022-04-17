@@ -20,7 +20,7 @@ body{
 .first_container{
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
-    border:2px dotted rgb(255, 255, 255);
+    border:5px dotted rgb(255, 255, 255);
     text-align: center;
     color: aliceblue;
     text-align: center;
@@ -89,6 +89,7 @@ img{
 
 #second_container{
     border-left: dotted white;
+    border-width: 5px;
     border-right: dotted white;
     text-align: center;
     color: rgb(0, 0, 0);
@@ -150,6 +151,7 @@ img{
     border-left: dotted white;
     border-right: dotted white;
     text-align: center;
+    border-width: 5px;
     display: flex;
     flex-direction: column;
     /* color: rgb(0, 0, 0); */
@@ -195,7 +197,7 @@ img{
     flex-direction: column;
 }
 .con3_first_letter{
-    font-family: 'Mea Culpa', cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 200px;
 }
 .rest3{
@@ -218,6 +220,7 @@ img{
     border-left: dotted white;
     border-right: dotted white;
     text-align: center;
+    border-width: 5px;
     color: rgb(0, 0, 0);
     /* text-align: center; */
     align-items: center;
@@ -290,6 +293,7 @@ img{
 #fifth_container{
     border-left: dotted white;
     border-right: dotted white;
+    border-width: 5px;
     text-align: center;
     color: rgb(0, 0, 0);
     /* text-align: center; */
