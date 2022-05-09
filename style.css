@@ -421,3 +421,76 @@ img{
     font-weight: 900;
     color: gray;
 }
+
+
+/* ============================================================================ */
+#sixth_container{
+    border-left: dotted white;
+    border-right: dotted white;
+    border-width: 5px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    /* text-align: center; */
+    align-items: center;
+    height:700px;
+   
+    margin-left: 80px;
+    /* background-color: rgba(247, 171, 171, 0.8); */
+    /* background: transparent; */
+    margin-right: 80px;
+}
+#container_6{
+    
+    /* margin-top: -150px; */
+    margin: 10px;
+    margin-top: -115px;
+    height:700px;
+    padding: 0px 40px;
+    padding-top: 0px;
+    background-color:#f5cf7d94;
+    /* background-image: url('phone.jpg'); */
+    
+    height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    clip-path: polygon(0 15%,100% 0%,100% 85%,0% 100%);
+}
+#col6_first_letter{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250px;
+    /* background-color: yellow; */
+    background: transparent;
+}
+#col6_head{
+    display: flex;
+    margin-left: 600px;
+    margin-right: 200px;margin-top: -100px;
+    /* background-color: springgreen; */
+    background: transparent;
+}
+#col6_rest_letter{
+    /* background-color: crimson; */
+    background: transparent;
+    line-height: 30px;
+    width: 450px;
+    margin-left: -55px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    padding-top: 220px;
+    font-size: 36px;
+    letter-spacing: 2px;
+    
+}
+.col6_details{
+    /* background-color: turquoise; */
+    background: transparent;
+    margin-left: 680px;
+    margin-top: -50px;
+    padding: 20px;
+    margin-right: 200px;
+    text-align: justify;
+    font-size: 15px;
+}
